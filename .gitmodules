@@ -1,0 +1,12 @@
+[submodule "advanced-region-market"]
+	path = advanced-region-market
+	url = https://git.trueog.net/trueog/advanced-region-market
+[submodule "PureKitPvP"]
+	path = PureKitPvP
+	url = https://git.trueog.net/trueog/PureKitPvP
+[submodule "MiniMOTD"]
+	path = MiniMOTD
+	url = https://git.trueog.net/trueog/MiniMOTD
+[submodule "QuickShop-OG-Alt"]
+	path = QuickShop-OG-Alt
+	url = https://git.trueog.net/trueog/QuickShop-OG-Alt
